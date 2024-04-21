@@ -1,0 +1,6 @@
+1; Hammer-Drill_Молоток; ABCDEFGHIJKL; 1234.5678
+2; Screw-Driver; ABCDEFGHIJKL; 299.000
+3; Saw_Пила; ABCDEFGHIJKL; 50.999
+7; Drill-Bit_Свердло; ABCDEFGHIJKL; 8000.000
+8; Hammer; ABCDEFGHIJKL; 3330.000
+9; Cable_Кабель; ABCDEFGHIJKL; 1575.100
